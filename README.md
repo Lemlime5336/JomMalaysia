@@ -6,7 +6,7 @@ ImagineHack2025, Domain 1 challenge
 
 Tourism in Kuala Lumpur is often centered around malls and cafes, leaving Malaysia's rich cultural heritage underexplored. Existing platforms lack engagement and rarely promote eco-friendly travel habits.
 
-JomMalaysia is a web app that gamifies city exploration for tourists and locals. Users discover cultural sites, heritage food spots, and hidden gems through an interactive map — earning points, achievements, and badges for verified visits and eco-conscious choices.
+JomMalaysia is a web app that gamifies city exploration for tourists and locals. Users discover cultural sites, heritage food spots, and hidden gems through an interactive map - earning points, achievements, and badges for verified visits and eco-conscious choices.
 
 ---
 

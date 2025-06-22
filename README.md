@@ -79,4 +79,6 @@ A **fun and meaningful way to explore Malaysia**:
 
 ---
 
-## 
+## Running the file
+git clone the repository and to run npm start
+
